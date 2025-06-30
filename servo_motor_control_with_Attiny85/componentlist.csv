@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," ATtiny"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"P1",1,"5 , 5  Power Supply"
+"Rpot1, Rpot2",2,"250 kΩ Potentiometer"
