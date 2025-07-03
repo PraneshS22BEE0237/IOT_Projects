@@ -1,6 +1,6 @@
 # Servo Motor Control with ATtiny85
 
-A dual servo motor control system using ATtiny85 microcontroller with potentiometer-based positioning control.
+A dual servo motor control system using ATtiny85 microcontroller with potentiometer-based positioning control
 
 ## 📋 Project Overview
 
