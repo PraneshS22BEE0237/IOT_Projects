@@ -5,7 +5,7 @@ An Arduino-based automatic water level monitoring and control system designed to
 
 ## 🔍 Overview
 
-This Automatic Water Level Controller is an IoT-based solution that monitors water levels using an ultrasonic sensor and automatically controls a water pump to maintain desired water levels. The system includes both automatic and manual operation modes, making it suitable for various applications such as water tanks, overhead tanks, and irrigation systems.
+This Automatic Water Level Controller is an IoT-based solution that monitors water levels using an ultrasonic sensor and automatically controls a water pump to maintain desired water levels. The system includes both automatic and manual operation modes, making it suitable for various applications such as water tanks, overhead tanks, and irrigation systems
 
 **Author:** PRANESH S
 
