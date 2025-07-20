@@ -5,7 +5,7 @@
 [![Wokwi](https://img.shields.io/badge/Simulator-Wokwi-orange)](https://wokwi.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An intelligent IoT security system that automatically controls lighting based on motion detection and ambient light conditions. This project combines security monitoring with energy-efficient lighting control.
+An intelligent IoT security system that automatically controls lighting based on motion detection and ambient light conditions. This project combines security monitoring with energy-efficient lighting control
 
 ## 🌟 Features
 
