@@ -4,7 +4,7 @@ A dual servo motor control system using ATtiny85 microcontroller with potentiome
 
 ## 📋 Project Overview
 
-This project demonstrates how to control two servo motors using an ATtiny85 microcontroller. The servo positions are controlled by two potentiometers connected to analog inputs. The project includes a custom SoftwareServo library implementation optimized for ATtiny85's limited resources.
+This project demonstrates how to control two servo motors using an ATtiny85 microcontroller. The servo positions are controlled by two potentiometers connected to analog inputs. The project includes a custom SoftwareServo library implementation optimized for ATtiny85's limited resources
 
 ## 🔧 Components Required
 
