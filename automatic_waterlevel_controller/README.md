@@ -1,6 +1,6 @@
 # Automatic Water Level Controller
 
-An Arduino-based automatic water level monitoring and control system designed to maintain optimal water levels in tanks or reservoirs. This project features real-time water level measurement, automatic pump control, manual override capabilities, and a user-friendly LCD display interface
+An Arduino-based automatic water level monitoring and control system designed to maintain optimal water levels in tanks or reservoirs. This project features real-time water level measurement, automatic pump control, manual override capabilities, and a user-friendly LCD display interface.
 
 
 ## 🔍 Overview
